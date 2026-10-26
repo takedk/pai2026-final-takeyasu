@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+scratch/
+test_results/
+trajectories/
+runs/*_*_*/
+!runs/videos/

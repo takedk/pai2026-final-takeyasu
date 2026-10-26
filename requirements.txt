@@ -1,0 +1,7 @@
+# 動作確認済みバージョン（Python 3.13.5, CPUのみ）
+genesis-world==1.4.5
+torch==2.14.1
+numpy==2.5.4
+imageio==2.38.1
+imageio-ffmpeg==0.6.0
+pillow==11.3.0
